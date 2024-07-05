@@ -24,7 +24,7 @@ param(
     [string] $ScriptPathforWindows, ## Parameter of if any script to be executed in Windows clients
 
     [Parameter(Position = 8)]
-    [string] $ScriptPathforLinux, ## Parameter of if any script to be executed in Linux clients
+    [string] $ScriptPathforLinux ## Parameter of if any script to be executed in Linux clients
     )
 ## A function for execute command or run any script##
 function uploadCommand
