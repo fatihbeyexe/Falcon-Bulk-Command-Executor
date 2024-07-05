@@ -1,8 +1,8 @@
-## Falcon Bulk Command Executor: Automate RTR Commands and Scripts Across Falcon Groups
+## CrowdStrike Falcon Bulk Command Executor: Automate RTR Commands and Scripts Across Falcon Groups
 
 **Overview**
 
-The Falcon Bulk Command Executor is a PowerShell script that simplifies the execution of RTR commands or scripts across Falcon-managed Windows, Mac, and Linux devices belonging to a specified group. It utilizes the PSFalcon module to interact with the Falcon RTR API and efficiently execute tasks on multiple devices.
+The Falcon Bulk Command Executor is a PowerShell script that simplifies the execution of RTR commands or scripts across CrowdStrike Falcon-managed Windows, Mac, and Linux devices belonging to a specified group. It utilizes the PSFalcon module to interact with the Falcon RTR API and efficiently execute tasks on multiple devices.
 
 **Key Features:**
 
